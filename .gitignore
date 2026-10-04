@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local sediment state (may contain tokens or session transcripts)
+sediment.toml
+.sediment/
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local code index
+.codegraph/
